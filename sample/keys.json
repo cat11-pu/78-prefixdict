@@ -1,0 +1,8 @@
+{
+  "width": 16,
+  "encoded_after_restore": 88,
+  "roundtrip_invariant": true,
+  "keys": ["billing:invoices:cn:1001", "billing:invoices:cn:1002", "billing:invoices:cn:1003",
+           "billing:payments:cn:2001", "billing:payments:cn:2002"],
+  "extra_keys": ["billing:invoices:cn:1004"]
+}
